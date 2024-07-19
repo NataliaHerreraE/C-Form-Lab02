@@ -1,0 +1,11 @@
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\obj\Debug\Part_II.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\obj\Debug\Part_II.GUI.CourseRegistrationForm.resources
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\obj\Debug\Part_II.GUI.LoginForm.resources
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\obj\Debug\Part_II.Properties.Resources.resources
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\obj\Debug\Part_II.csproj.GenerateResource.cache
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\obj\Debug\Part_II.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\bin\Debug\Part_II.exe.config
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\bin\Debug\Part_II.exe
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\bin\Debug\Part_II.pdb
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\obj\Debug\Part_II.exe
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_II\obj\Debug\Part_II.pdb

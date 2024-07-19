@@ -1,0 +1,7 @@
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_I\bin\Debug\Part_I.exe.config
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_I\bin\Debug\Part_I.exe
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_I\bin\Debug\Part_I.pdb
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_I\obj\Debug\Part_I.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_I\obj\Debug\Part_I.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_I\obj\Debug\Part_I.exe
+C:\Users\natan\OneDrive\Documents\INTAKE3\MULT-TIER APP DEVELOP\FinalExam_2232086\FinalExam_2232086\Part_I\obj\Debug\Part_I.pdb
